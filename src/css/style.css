@@ -1,0 +1,55 @@
+*{
+	font-family: Tahoma, sans-serif;
+	color: #333333;
+}
+.head{
+	margin-top: 120px;
+	margin-bottom:85px;
+	font-size: 24px;
+}
+.head span{
+	display: block;
+}
+.head strong{
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.form{
+	border: 5px solid #593ec7;
+	padding:35px 20px;
+}
+.head-form{
+	font-weight: 900;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+.form input{
+	margin-bottom: 15px;
+}
+.form-btn{
+	background-color: #593ec7;
+	border: none;
+}
+.head-feature, .client{
+	font-weight: 900;
+	margin-top: 120px;
+	margin-bottom: 85px;
+	font-size: 24px;
+}
+.feature img{
+	height: 100px;
+}
+.feature p{
+	margin-top: 20px;
+	font-weight: 900;
+}
+.feature{
+	margin-bottom: 90px;
+}
+.video{
+	margin-bottom: 30px;
+}
+.img-client{
+	margin-bottom: 30px;
+	height: 220px;
+}
